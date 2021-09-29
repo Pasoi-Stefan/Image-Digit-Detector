@@ -1,0 +1,4 @@
+criptare/test.bmp
+rezultat__/test_crypto.bmp
+rezultat__/test_decrypto.bmp
+criptare/secret_key.txt

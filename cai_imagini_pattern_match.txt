@@ -1,0 +1,12 @@
+rezultat__/test_decrypto.bmp
+pattern_match/cifra0.bmp
+pattern_match/cifra1.bmp
+pattern_match/cifra2.bmp
+pattern_match/cifra3.bmp
+pattern_match/cifra4.bmp
+pattern_match/cifra5.bmp
+pattern_match/cifra6.bmp
+pattern_match/cifra7.bmp
+pattern_match/cifra8.bmp
+pattern_match/cifra9.bmp
+rezultat__/test_detectie.bmp
